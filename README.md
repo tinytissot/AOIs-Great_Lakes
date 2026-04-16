@@ -10,7 +10,7 @@ This folder contains the materials used to create procedural AOIs for the Great 
 
 
 
-Processing steps:
+### Processing steps
 
 Same workflow as the cancoast_by_utm materials: "C:\Users\jwatt\cs\06_scratch\20260218_cancoast_by_utm\README.txt",
 and the AOIs: P:\CoastSat\AOIs.
@@ -28,3 +28,7 @@ The original script paths have been updated to use Great Lake paths.
 
 	Later, when downloading from the P:drive for processing:
 	5. save_intersecting_kmls_GREATLAKES.py
+
+### View of full extent
+
+![view of full extent](screenshot.png)
