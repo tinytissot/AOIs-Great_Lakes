@@ -10,6 +10,7 @@ This folder contains the materials used to create procedural AOIs for the Great 
 
 
 Processing steps:
+
 Same workflow as the cancoast_by_utm materials: "C:\Users\jwatt\cs\06_scratch\20260218_cancoast_by_utm\README.txt",
 and the AOIs: P:\CoastSat\AOIs.
 The original script paths have been updated to use Great Lake paths.
