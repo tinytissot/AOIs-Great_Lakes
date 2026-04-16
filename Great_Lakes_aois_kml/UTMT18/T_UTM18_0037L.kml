@@ -1,0 +1,11 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+            <ExtendedData></ExtendedData>
+            <Polygon>
+            <outerBoundaryIs>
+            <LinearRing><coordinates>-76.387768379431193,44.098180434312368
+-76.389271485049207,44.162326039983661
+-76.503914402371663,44.160874090354966
+-76.502287369661474,44.096731711754522
+-76.387768379431193,44.098180434312368</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+</Document></kml>
