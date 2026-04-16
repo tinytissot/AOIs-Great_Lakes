@@ -6,6 +6,7 @@ This folder contains the materials used to create procedural AOIs for the Great 
 
  - create_RSGrove_partition_overlap.py: same as the script used to generate Cancoast AOIs, just changed filepaths
  - Shorelines_Great_Lakes_V4_flipped/: Great Lakes shapefile copied from the shared drive ("P:\CoastSat\Shapefiles\Shoreline_Great_Lakes_V4_flipped.shp")
+ - World_UTM_Grid/: shapefile of UTM Zone boundaries
 
 
 
